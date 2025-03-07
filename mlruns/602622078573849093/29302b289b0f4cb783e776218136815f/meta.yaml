@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/KalinaRajaobelina/Documents/Projet_Marketing/mlruns/602622078573849093/29302b289b0f4cb783e776218136815f/artifacts
+end_time: 1741252455488
+entry_point_name: ''
+experiment_id: '602622078573849093'
+lifecycle_stage: active
+run_id: 29302b289b0f4cb783e776218136815f
+run_name: Agglomératif (k=4)
+run_uuid: 29302b289b0f4cb783e776218136815f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741252455367
+status: 3
+tags: []
+user_id: KalinaRajaobelina

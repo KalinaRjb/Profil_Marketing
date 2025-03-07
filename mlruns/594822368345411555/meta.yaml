@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/KalinaRajaobelina/Documents/Projet_Marketing/mlruns/594822368345411555
+creation_time: 1741252456185
+experiment_id: '594822368345411555'
+last_update_time: 1741252456185
+lifecycle_stage: active
+name: Benchmark_Clustering_PCA (k=5,eps=0.7)
