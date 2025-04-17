@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/KalinaRajaobelina/Documents/Projet_Marketing/mlruns/594822368345411555/719614f239714e4eb5910dc5dc198843/artifacts
+end_time: 1741627932500
+entry_point_name: ''
+experiment_id: '594822368345411555'
+lifecycle_stage: active
+run_id: 719614f239714e4eb5910dc5dc198843
+run_name: K-Means (k=5)
+run_uuid: 719614f239714e4eb5910dc5dc198843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741627932335
+status: 3
+tags: []
+user_id: KalinaRajaobelina

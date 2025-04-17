@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/KalinaRajaobelina/Documents/Projet_Marketing/mlruns/602622078573849093/e43c8fe8283b4fa982435c33d1649306/artifacts
+end_time: 1743754767614
+entry_point_name: ''
+experiment_id: '602622078573849093'
+lifecycle_stage: active
+run_id: e43c8fe8283b4fa982435c33d1649306
+run_name: DBSCAN (eps=0.5)
+run_uuid: e43c8fe8283b4fa982435c33d1649306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743754767520
+status: 3
+tags: []
+user_id: KalinaRajaobelina
